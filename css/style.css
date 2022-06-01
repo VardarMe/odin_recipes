@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+    padding-left: 10%;
+    font-family: sans-serif;
+
+
+}
+a { color: inherit;}
+
+h1{
+    text-align: center;
+    font-weight: 200;
+}
+h3{
+    font-weight: bold;
+}
+h4{
+    text-decoration: underline;
+}
+
+.menu{
+    padding-left: 10%;
+    color: darkred;
+    font-size: 25px;
+}
+
+.img-size{
+    width: 500px;
+    height: auto;
+    text-align: center;
+}
+
+.img-size img{
+width: 100%;
+height: auto;
+}
